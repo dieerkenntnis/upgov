@@ -1,4 +1,3 @@
-![upgov_noback](https://github.com/dieerkenntnis/upgov/assets/107880334/0e1c2d28-fbef-4567-aafc-14b5a0861048)
 
 
 UpGov is a project that monitors the availability of various public services.
@@ -8,3 +7,5 @@ Domains are collected in a repository, each with its own Markdown file represent
 It is important to note that UpGov is not a municipal project but is operated by civil society. Its goal is to enable critical monitoring of digitization, promote transparency, and improve service quality.
 
 At the same time, administrations have the opportunity to optimize their systems and strengthen the trust of citizens. UpGov thus ensures the reliable availability of public services in our digital world.
+
+![upgov](https://github.com/dieerkenntnis/upgov/assets/107880334/544f46fa-7ab2-45b6-91f0-71e7b9e5acea)
