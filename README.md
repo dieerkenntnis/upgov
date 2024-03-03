@@ -1,4 +1,5 @@
-![upgov](https://github.com/dieerkenntnis/upgov/assets/107880334/4e40aac6-d238-4b6d-8293-31ddf7172698)
+![upgov_noback](https://github.com/dieerkenntnis/upgov/assets/107880334/0e1c2d28-fbef-4567-aafc-14b5a0861048)
+
 
 UpGov is a project that monitors the availability of various public services.
 
