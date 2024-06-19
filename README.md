@@ -7,6 +7,6 @@ Domains are collected in a repository, each with its own Markdown file represent
 
 It is important to note that UpGov is not a municipal project but is operated by civil society. Its goal is to enable critical monitoring of digitization, promote transparency, and improve service quality.
 
-At the same time, administrations have the opportunity to optimize their systems and strengthen the trust of citizens. UpGov thus ensures the reliable availability of public services in our digital world.
+
 
 
